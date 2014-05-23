@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Iteration1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Client</name>
+			<type>2</type>
+			<location>M:/SYSC 3303/Group 3 Project/Iteration1/src/Client</location>
+		</link>
+		<link>
+			<name>src/Common</name>
+			<type>2</type>
+			<location>M:/SYSC 3303/Group 3 Project/Iteration1/src/Common</location>
+		</link>
+		<link>
+			<name>src/ErrorSim</name>
+			<type>2</type>
+			<location>M:/SYSC 3303/Group 3 Project/Iteration1/src/ErrorSim</location>
+		</link>
+		<link>
+			<name>src/Server</name>
+			<type>2</type>
+			<location>M:/SYSC 3303/Group 3 Project/Iteration1/src/Server</location>
+		</link>
+	</linkedResources>
+</projectDescription>
